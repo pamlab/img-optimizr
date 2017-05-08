@@ -1,0 +1,21 @@
+{
+    "dir": {
+        "input" : "input/**/*",
+        "output": "output"
+    },
+
+    "option": {
+        "pngquant" : {
+            "quality": "70-75",
+            "speed"  : 1,
+            "floyd"  : 0,
+            "nofs"   : true
+        },
+        "mozjpeg" : {
+            "quality": 75
+        },
+        "webp" : {
+            "quality": 85
+        }
+    }
+}
