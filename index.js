@@ -1,6 +1,6 @@
 'use strict';
 
-const imagemin = require('imagemin');
+const imagemin = require('./lib/imagemin_local');
 const pngquant = require('imagemin-pngquant');
 const mozjpeg  = require('imagemin-mozjpeg');
 const webp     = require('imagemin-webp');
