@@ -70,4 +70,4 @@ $ npm run convert
 Dependence
 ----------
 
-[Plugins list](https://bitbucket.org/hirofumi_i/imgoptim/wiki/Plugins/Home)
+[Plugins list](https://github.com/pamlab/img-optimizr/wiki)
