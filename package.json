@@ -18,11 +18,11 @@
   "homepage": "https://bitbucket.org/hirofumi_i/imgoptim#readme",
   "dependencies": {
     "argv": "0.0.2",
-    "del": "^2.2.1",
+    "del": "^3.0.0",
     "imagemin": "^5.3.1",
-    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-mozjpeg": "^7.0.0",
     "imagemin-pngquant": "^5.0.0",
-    "imagemin-webp": "^4.0.0",
+    "imagemin-webp": "^4.1.0",
     "promise.pipe": "^3.0.0"
   }
 }
